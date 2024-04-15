@@ -1,0 +1,17 @@
+#image{
+    height: 500px;
+    width: 300px;
+}
+#p1{
+    background-color: cornflowerblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    width: fit-content;
+}
+
+#p2{
+    background-color: rgb(100, 237, 116);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style:oblique
+    
+}
